@@ -85,6 +85,6 @@ Me chamo LetÃ­cia Teixeira Da Rocha Batista, tenho 21 anos e sou da cidade de SÃ
     title="Databricks" 
     width="30px" 
     style="padding-right:10px;" 
-    src='file:///C:/Users/SAMSUNG/Downloads/databricks_BIG.svg'
+    src='databricks.svg'
 />
 <br/>
