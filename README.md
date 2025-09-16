@@ -2,7 +2,7 @@
 
 **`Engenheira de Dados`**
 
-Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou natural da cidade de São Pailo. Concluí o ensino superior tecnólogo em Análise e Desenvolvimento de Sistemas, na Univerdade de Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e busco evoluir cada dia mais.
+Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou da cidade de São Paulo. Concluí o ensino superior tecnólogo em Análise e Desenvolvimento de Sistemas, na Univerdade de Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e busco evoluir cada dia mais.
 
 
 ### 🤖 Linguagens
