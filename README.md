@@ -53,7 +53,7 @@ Me chamo LetÃ­cia Teixeira Da Rocha Batista, tenho 21 anos e sou da cidade de SÃ
     title="SQL" 
     width="30px" 
     style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img 
     align="left" 
@@ -62,5 +62,29 @@ Me chamo LetÃ­cia Teixeira Da Rocha Batista, tenho 21 anos e sou da cidade de SÃ
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src='file:///C:/Users/SAMSUNG/Downloads/databricks_BIG.svg'
 />
 <br/>
