@@ -77,7 +77,7 @@ Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou natural da cida
     title="Databricks" 
     width="30px" 
     style="padding-right:10px;" 
-    src="https://images.seeklogo.com/logo-png/44/1/databricks-logo-png_seeklogo-440973.png" 
+    src="[[File:Databricks Logo.png|Databricks_Logo]]" 
 />
 <img 
     align="left" 
