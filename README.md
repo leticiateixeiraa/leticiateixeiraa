@@ -5,7 +5,7 @@
 Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou natural da cidade de São Pailo. Concluí o ensino superior tecnólogo em Análise e Desenvolvimento de Sistemas, na Univerdade de Mogi das Cruzes. Atualmente, estou cursando Engenharia de Software. Sou apaixonada por tecnologia e busco evoluir cada dia mais.
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -30,14 +30,6 @@ Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou natural da cida
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img 
     align="left" 
@@ -70,29 +62,5 @@ Me chamo Letícia Teixeira Da Rocha Batista, tenho 21 anos e sou natural da cida
     width="30px" 
     style="padding-right:10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Databricks" 
-    title="Databricks" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="[[File:Databricks Logo.png|Databricks_Logo]]" 
-/>
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB" 
-    width="30px" 
-    style="padding-right:10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <br/>
